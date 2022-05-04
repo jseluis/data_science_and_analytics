@@ -23,6 +23,19 @@
 
     4. Query the Feature Store
 
+- Train a review classifier with BERT and Amazon SageMaker
+
+    5. Configure dataset
+
+    6. Configure model hyper-parameters
+
+    7. Setup evaluation metrics, debugger and profiler
+
+    8. Train model
+
+    9. Analyze debugger results
+
+    10. Deploy and test the model
 
 
 
