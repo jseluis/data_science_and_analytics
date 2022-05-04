@@ -1,7 +1,9 @@
 
-# ML_Pipelines_using_BERT
+# Projects and Labs in Data Science using Machine Learning Pipelines 
 
-## Build, Train, and Deploy ML Pipelines using BERT
+##  ML_Pipelines_using_BERT
+
+### Build, Train, and Deploy ML Pipelines using BERT
 
 ### Summary of the Labs and Projects
 
