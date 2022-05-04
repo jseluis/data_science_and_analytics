@@ -36,6 +36,13 @@
     9. Analyze debugger results
 
     10. Deploy and test the model
+    
+References:
+    
+- [RoBERTa: A Robustly Optimized BERT Pretraining] Approach(https://arxiv.org/abs/1907.11692)
+
+- Fundamental Techniques of Feature Engineering for Machine Learning
+
 
 
 
