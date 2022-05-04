@@ -59,8 +59,7 @@ References:
 
 - [Amazon SageMaker Debugger (Developer Guide)](https://docs.aws.amazon.com/sagemaker/latest/dg/train-debugger.html)
 
-- [Amazon SageMaker Debugger (GitHub)]
-(https://github.com/awslabs/sagemaker-debugger)
+- [Amazon SageMaker Debugger (GitHub)](https://github.com/awslabs/sagemaker-debugger)
 
 
 
