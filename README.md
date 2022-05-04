@@ -39,7 +39,7 @@
     
 References:
     
-- [RoBERTa: A Robustly Optimized BERT Pretraining] Approach(https://arxiv.org/abs/1907.11692)
+- [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
 
 - Fundamental Techniques of Feature Engineering for Machine Learning
 
