@@ -1,5 +1,8 @@
 # Build, Train, and Deploy ML Pipelines using BERT
 
+### Build, Train and Deploy ML Pipelines using BERT
+
+[My Certificate](https://www.coursera.org/account/accomplishments/certificate/JTLDR3DE4UNJ)
 
 ## Project Focus and Summary
 
@@ -30,10 +33,6 @@ Steps:
 
 
 # SageMaker pipelines to train a RoBERTa-Based text classifier
-
-### Build, Train and Deploy ML Pipelines using BERT
-
-[My Certificate](https://www.coursera.org/account/accomplishments/certificate/JTLDR3DE4UNJ)
 
 Now you will train a text classifier using a variant of BERT called [RoBERTa](https://arxiv.org/abs/1907.11692) - a Robustly Optimized BERT Pretraining Approach - within a PyTorch model ran as a SageMaker Training Job.
 
