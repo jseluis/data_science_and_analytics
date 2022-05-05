@@ -55,3 +55,5 @@ In the condition step, you will register the trained model if the accuracy of th
 
 ![](./images/bert_sagemaker_pipeline.png)
 
+- [BERT: Pre-training of Deep Bidirectional Transformers for
+Language Understanding](https://arxiv.org/pdf/1810.04805v2.pdf)
