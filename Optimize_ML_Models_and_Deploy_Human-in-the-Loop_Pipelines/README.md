@@ -6,7 +6,7 @@
 
 [Optimize ML Models and Deploy Human-in-the-Loop Pipelines Certificate](https://www.coursera.org/account/accomplishments/certificate/RN8CLW4W3UJK)
 
-**Project 1 - Optimize models using Automatic Model Tuning**
+- Project 1 - Optimize models using Automatic Model Tuning
 
 1. Configure dataset
 
@@ -14,7 +14,7 @@
 
 3. Evaluate the results
 
-**Project 2 A/B testing, traffic shifting and autoscaling**
+- Project 2 A/B testing, traffic shifting and autoscaling
 
 4. Configure and create REST Enpoint with multiple variants
 
@@ -26,7 +26,7 @@
 
 8. Configure one variant to autoscale
 
-**Project 3 Data labeling and human-in-the-loop pipelines with Amazon Augmented AI (A2I)**
+- Project 3 Data labeling and human-in-the-loop pipelines with Amazon Augmented AI (A2I)
 
 9. Setup private workforce and Cognito pool
 
