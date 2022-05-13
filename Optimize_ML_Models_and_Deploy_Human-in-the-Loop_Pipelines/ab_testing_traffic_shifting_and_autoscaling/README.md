@@ -1,6 +1,6 @@
 # A/B testing, traffic shifting and autoscaling
 
-### My Quick Lab from Practical Data Science Specializastion, Coursera.
+### My Project from Practical Data Science Specializastion, Coursera.
 
 Project:
 

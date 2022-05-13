@@ -10,6 +10,8 @@ Visit: [Jseluis.com](https://jseluis.com)
 
 - Project 1 - Optimize models using Automatic Model Tuning
 
+    When training ML models, hyperparameter tuning is a step taken to find the best performing training model. In this lab you will apply a random algorithm of Automated Hyperparameter Tuning to train a BERT-based natural language processing (NLP) classifier. The model analyzes customer feedback and classifies the messages into positive (1), neutral (0), and negative (-1) sentiments.
+
     1. Configure dataset
 
     2. Configure and run hyper-parameter tuning job
@@ -17,6 +19,8 @@ Visit: [Jseluis.com](https://jseluis.com)
     3. Evaluate the results
 
 - Project 2 A/B testing, traffic shifting and autoscaling
+
+    Create an endpoint with multiple variants, splitting the traffic between them. Then after testing and reviewing the endpoint performance metrics, you will shift the traffic to one variant and configure it to autoscale.
 
     4. Configure and create REST Enpoint with multiple variants
 
