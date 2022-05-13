@@ -1,4 +1,5 @@
 # Build, Train, and Deploy ML Pipelines using BERT
+Visit: [Jseluis.com](https://jseluis.com)
 
 ### Pratical Data Science
 
