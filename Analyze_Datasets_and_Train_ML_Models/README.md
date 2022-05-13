@@ -4,6 +4,8 @@
 
 [My Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BT2K6GVW7FPL)
 
+[Analyze Datasets and Train ML Models using AutoML Certificate](https://www.coursera.org/account/accomplishments/certificate/ZJYUV8KQLDXTL)
+
 **Project 1 - Amazon Sagemaker - Register and visualize dataset**
 
 Register and visualize dataset
