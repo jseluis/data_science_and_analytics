@@ -45,23 +45,23 @@
 
 Advanced model training, tuning, and evaluation:
 
-    Hyperband 
+[Hyperband](https://arxiv.org/pdf/1603.06560.pdf) 
 
-    Bayesian Optimization
+[Bayesian Optimization](https://arxiv.org/pdf/1206.2944.pdf)
 
-    Amazon SageMaker Automatic Model Tuning
+[Amazon SageMaker Automatic Model Tuning](https://arxiv.org/pdf/2012.08489.pdf)
 
 Advanced model deployment, and monitoring:
 
-    A/B Testing
+[A/B Testing](https://docs.aws.amazon.com/sagemaker/latest/dg/model-ab-testing.html)
 
-    Autoscaling
+[Autoscaling](https://docs.aws.amazon.com/sagemaker/latest/dg/endpoint-auto-scaling.html)
 
-    Multi-armed bandit
+[Multi-armed bandit](https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/)
 
-    Batch Transform
+[Batch Transform](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-batch.html)
 
-    Inference Pipeline
+[Inference Pipeline](https://docs.aws.amazon.com/sagemaker/latest/dg/inference-pipelines.html)
 
 [Model Monitor](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor.html)
 
