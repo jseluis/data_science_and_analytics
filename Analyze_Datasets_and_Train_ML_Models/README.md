@@ -92,13 +92,13 @@ Week 3 Automated Machine Learning:
 
 Week 4 Built-in algorithms:
 
-    Elastic Machine Learning Algorithms in Amazon SageMaker
+[Elastic Machine Learning Algorithms in Amazon SageMaker](https://www.amazon.science/publications/elastic-machine-learning-algorithms-in-amazon-sagemaker)
 
-    Word2Vec algorithm
+[Word2Vec algorithm](https://arxiv.org/pdf/1301.3781.pdf)
 
-    GloVe algorithm 
+[GloVe algorithm](https://www.aclweb.org/anthology/D14-1162.pdf)
 
-    FastText algorithm 
+[FastText algorithm](https://arxiv.org/pdf/1607.04606v2.pdf)
 
 [Transformer architecture, "Attention Is All You Need"](https://arxiv.org/abs/1706.03762)
 
@@ -106,10 +106,10 @@ Week 4 Built-in algorithms:
 
 [ELMo algorithm](https://arxiv.org/pdf/1802.05365v2.pdf)
 
-    GPT model architecture
+[GPT model architecture](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
-    BERT model architecture 
+[BERT model architecture](https://arxiv.org/abs/1810.04805) 
 
-    Built-in algorithms
+[Built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 
-    Amazon SageMaker BlazingText 
+[Amazon SageMaker BlazingText](https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html)
