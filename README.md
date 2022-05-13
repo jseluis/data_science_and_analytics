@@ -119,8 +119,7 @@ In the condition step, you will register the trained model if the accuracy of th
     
 References:
 
-- [BERT: Pre-training of Deep Bidirectional Transformers for
-Language Understanding](https://arxiv.org/pdf/1810.04805v2.pdf)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805v2.pdf)
     
 - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
 

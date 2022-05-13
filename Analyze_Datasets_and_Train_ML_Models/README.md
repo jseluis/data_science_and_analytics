@@ -66,7 +66,7 @@ Register and visualize dataset
 
 Week 1 Explore the Use Case and Analyze the Dataset:
 
-    [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)
+[AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)
 
     AWS Glue 
 
@@ -100,13 +100,11 @@ Week 4 Built-in algorithms:
 
     FastText algorithm 
 
-    Transformer architecture, "Attention Is All You Need" 
-    https://arxiv.org/abs/1706.03762
+[Transformer architecture, "Attention Is All You Need"](https://arxiv.org/abs/1706.03762)
 
-    [BlazingText algorithm]
-    (https://dl.acm.org/doi/pdf/10.1145/3146347.3146354)
+[BlazingText algorithm](https://dl.acm.org/doi/pdf/10.1145/3146347.3146354)
 
-    [ELMo algorithm](https://arxiv.org/pdf/1802.05365v2.pdf)
+[ELMo algorithm](https://arxiv.org/pdf/1802.05365v2.pdf)
 
     GPT model architecture
 
