@@ -8,37 +8,37 @@
 
 - Project 1 - Optimize models using Automatic Model Tuning
 
-1. Configure dataset
+    1. Configure dataset
 
-2. Configure and run hyper-parameter tuning job
+    2. Configure and run hyper-parameter tuning job
 
-3. Evaluate the results
+    3. Evaluate the results
 
 - Project 2 A/B testing, traffic shifting and autoscaling
 
-4. Configure and create REST Enpoint with multiple variants
+    4. Configure and create REST Enpoint with multiple variants
 
-5. Test the model
+    5. Test the model
 
-6. Show the metrics for each variant
+    6. Show the metrics for each variant
 
-7. Shift all traffic to one variant
+    7. Shift all traffic to one variant
 
-8. Configure one variant to autoscale
+    8. Configure one variant to autoscale
 
 - Project 3 Data labeling and human-in-the-loop pipelines with Amazon Augmented AI (A2I)
 
-9. Setup private workforce and Cognito pool
+    9. Setup private workforce and Cognito pool
 
-10. Create the Human Task UI using a Worker Task Template
+    10. Create the Human Task UI using a Worker Task Template
 
-11. Create a Flow Definition
+    11. Create a Flow Definition
 
-12. Start and check the status of human loop
+    12. Start and check the status of human loop
 
-13. Verify the completion
+    13. Verify the completion
 
-14. View the labels and prepare data for training
+    14. View the labels and prepare data for training
 
 
 ### References: 
