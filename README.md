@@ -1,6 +1,11 @@
 
 # Projects and Labs in Data Science using Machine Learning Pipelines 
 
+[My Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BT2K6GVW7FPL)
+
+[Optimize ML Models and Deploy Human-in-the-Loop Pipelines Certificate](https://www.coursera.org/account/accomplishments/certificate/RN8CLW4W3UJK)
+
+
 ##  ML_Pipelines_using_BERT
 
 ### Build, Train, and Deploy ML Pipelines using BERT

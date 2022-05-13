@@ -2,7 +2,13 @@
 
 ### Pratical Data Science
 
-[My Certificate](https://www.coursera.org/account/accomplishments/certificate/JTLDR3DE4UNJ)
+[My Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BT2K6GVW7FPL)
+
+[Analyze Datasets and Train ML Models using AutoML Certificate](https://www.coursera.org/account/accomplishments/certificate/ZJYUV8KQLDXTL)
+
+[Build, Train and Deploy ML Pipelines using BERT](https://www.coursera.org/account/accomplishments/certificate/JTLDR3DE4UNJ)
+
+[Optimize ML Models and Deploy Human-in-the-Loop Pipelines Certificate](https://www.coursera.org/account/accomplishments/certificate/RN8CLW4W3UJK)
 
 **Project 1 - Amazon Sagemaker - Register and visualize dataset**
 
