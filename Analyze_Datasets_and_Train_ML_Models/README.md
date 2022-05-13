@@ -1,6 +1,6 @@
 # Analyze Datasets and Train ML Models using AutoML
 
-### My Quick Lab from Practical Data Science Specializastion, Coursera.
+### My Quick Lab from Practical Data Science Specialization, Coursera.
 
 [My Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BT2K6GVW7FPL)
 
@@ -103,11 +103,10 @@ Week 4 Built-in algorithms:
     Transformer architecture, "Attention Is All You Need" 
     https://arxiv.org/abs/1706.03762
 
-    BlazingText algorithm
-    https://dl.acm.org/doi/pdf/10.1145/3146347.3146354
+    [BlazingText algorithm]
+    (https://dl.acm.org/doi/pdf/10.1145/3146347.3146354)
 
-    ELMo algorithm
-    https://arxiv.org/pdf/1802.05365v2.pdf
+    [ELMo algorithm](https://arxiv.org/pdf/1802.05365v2.pdf)
 
     GPT model architecture
 
