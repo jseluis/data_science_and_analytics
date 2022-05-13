@@ -72,7 +72,7 @@ Register and visualize dataset
 
 ### References: 
 
-Week 1 Explore the Use Case and Analyze the Dataset:
+Explore the Use Case and Analyze the Dataset:
 
 [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)
 
@@ -88,7 +88,7 @@ Week 1 Explore the Use Case and Analyze the Dataset:
 
     Numpy 
 
-Week 2 Data Bias and Feature Importance:
+Data Bias and Feature Importance:
 
     Measure Pretraining Bias - Amazon SageMaker
 
@@ -98,7 +98,7 @@ Week 3 Automated Machine Learning:
 
     Amazon SageMaker Autopilot
 
-Week 4 Built-in algorithms:
+Built-in algorithms:
 
 [Elastic Machine Learning Algorithms in Amazon SageMaker](https://www.amazon.science/publications/elastic-machine-learning-algorithms-in-amazon-sagemaker)
 
