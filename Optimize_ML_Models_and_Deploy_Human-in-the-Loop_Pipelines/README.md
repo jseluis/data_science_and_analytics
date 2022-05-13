@@ -2,7 +2,7 @@
 
 Visit: [Jseluis.com](https://jseluis.com)
 
-### My Quick Lab from Practical Data Science Specialization, Coursera.
+### My Project from Practical Data Science Specialization, Coursera.
 
 [My Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BT2K6GVW7FPL)
 
