@@ -34,6 +34,8 @@ Visit: [Jseluis.com](https://jseluis.com)
 
 - Project 3 Data labeling and human-in-the-loop pipelines with Amazon Augmented AI (A2I)
 
+    Create your own human workforce, a human task UI, and then define the human review workflow to perform data labeling. You will make the original predictions of the labels with the custom ML model, and then create a human loop if the probability scores are lower than the preset threshold. After the completion of the human loop tasks, you will review the results and prepare data for re-training.
+
     9. Setup private workforce and Cognito pool
 
     10. Create the Human Task UI using a Worker Task Template
