@@ -1,5 +1,7 @@
 # Optimize ML Models and Deploy Human-in-the-Loop Pipelines
 
+[Visit jseluis.com for more:](https://jseluis.com)
+
 ### My Quick Lab from Practical Data Science Specialization, Coursera.
 
 [My Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BT2K6GVW7FPL)
