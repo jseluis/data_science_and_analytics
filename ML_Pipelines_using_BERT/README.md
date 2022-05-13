@@ -1,8 +1,15 @@
 # Build, Train, and Deploy ML Pipelines using BERT
 
-### Build, Train and Deploy ML Pipelines using BERT
+### Pratical Data Science
 
 [My Certificate](https://www.coursera.org/account/accomplishments/certificate/JTLDR3DE4UNJ)
+
+**Project 1 - Amazon Sagemaker - Register and visualize dataset**
+
+In this lab you will ingest and transform the customer product reviews dataset. Then you will use AWS data stack services such as AWS Glue and Amazon Athena for ingesting and querying the dataset. Finally you will use AWS Data Wrangler to analyze the dataset and plot some visuals extracting insights.
+
+
+### Build, Train and Deploy ML Pipelines using BERT
 
 ## Project Focus and Summary
 
