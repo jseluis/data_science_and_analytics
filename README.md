@@ -1,7 +1,5 @@
 
-# Projects - Data Science using Machine Learning Pipelines 
-
-### Pratical Data Science, Coursera
+# Data Science using Machine Learning Pipelines 
 
 [My Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BT2K6GVW7FPL)
 
